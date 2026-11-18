@@ -1,0 +1,13 @@
+{
+    "devices": {
+        "lights": false,
+        "fan": true,
+        "mains_present": true
+    },
+    "conversation": {
+        "last_devices": [
+            "lights"
+        ],
+        "last_action": "off"
+    }
+}
